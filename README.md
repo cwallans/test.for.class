@@ -1,3 +1,3 @@
 # test.for.class
 
-testing test 2
+This is the final test.
