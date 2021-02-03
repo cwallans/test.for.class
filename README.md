@@ -1,3 +1,3 @@
 # test.for.class
 
-testing test
+testing test 2
